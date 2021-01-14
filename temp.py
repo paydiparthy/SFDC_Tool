@@ -1,3 +1,9 @@
+### Packaging
+# Ref https://www.geeksforgeeks.org/convert-python-script-to-exe-file/
+# pip install pyinstaller
+# 
+###
+
 ### 
 # Ideally would like to restrict during input stage itself to not allow any invalid value using below commented Logic
 # But since the use case suggest to have Invalid as response modifying the logic
